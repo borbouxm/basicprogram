@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1739106108 source:c:\users\maxim\desktop\intro à la prog\projectc\exjeupendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
